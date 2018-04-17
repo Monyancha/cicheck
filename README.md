@@ -2,9 +2,9 @@
 ![noname6](https://user-images.githubusercontent.com/31141340/38529759-cfda35aa-3c5e-11e8-8d69-9ea924ca13ce.jpg)
 > Attendance tracking system, Scanning RFID Cards or tags and saving text and excel records on connected computer (Arduino and Processing Mini Project)
 
-* Download ciCHECK app for MacOs (Requires Java): http://bit.ly/getAttendancePad82
+* Download ciCHECK app for MacOs (Requires Java): http://bit.ly/getciCHECK1
 
-* Download ciCHECK Box drivers : http://bit.ly/getAttendancePadDrivers
+* Download ciCHECK Box drivers : http://bit.ly/getciCHECKBoxDrivers
 
 * Download Java : http://bit.ly/DownloadJava2
 
@@ -12,7 +12,7 @@
 ### ↪️ User guide instructions:
 
 > Install Instructions for ciCHECK app:
-1) Download "attendancePad Drivers.zip" then extract/decompress the folder to Desktop, Double click on "run.command" (Requires password), then Double click on "CH34x_Install_V1.4.pkg" Install then reboot.
+1) Download "ciCHECK Box Drivers.zip" then extract/decompress the folder to Desktop, Double click on "run.command" (Requires password), then Double click on "CH34x_Install_V1.4.pkg" Install then reboot.
 2) Download and run "ciCHECK Installer.pkg" and follow Instructions to install (insert user password if needed)
 3) ciCHECK app is ready to run from Launchpad and Applications folder
 

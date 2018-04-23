@@ -36,7 +36,7 @@ Side note:
 ### 🖼 Screenshots:
 
 > ScreenShot of the ciCHECK application (MacOS)
-![screen shot 2018-04-11 at 10 37 55 pm](https://i.imgur.com/qyjyjmD.png)
+![screen shot 2018-04-11 at 10 37 55 pm](https://i.imgur.com/NslRq0l.png)
 
 > The ciCHECK box Plugged to the computer
 ![screen shot Attendance Pad](https://i.imgur.com/Uil2mJB.jpg)

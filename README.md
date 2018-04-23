@@ -1,5 +1,5 @@
 # ciCHECK Project :computer: :credit_card: (Attendance tracking system) 
-![noname6](https://user-images.githubusercontent.com/31141340/38529759-cfda35aa-3c5e-11e8-8d69-9ea924ca13ce.jpg)
+![noname6](https://i.imgur.com/ru9FUHk.jpg)
 > Attendance tracking system, Scanning RFID Cards or tags and saving text and excel records on connected computer (Arduino and Processing Mini Project)
 
 * Download ciCHECK app for MacOs (Requires Java): http://bit.ly/getciCHECK1
@@ -36,7 +36,7 @@ Side note:
 ### 🖼 Screenshots:
 
 > ScreenShot of the ciCHECK application (MacOS)
-![screen shot 2018-04-11 at 10 37 55 pm](https://i.imgur.com/gSO4HTW.png)
+![screen shot 2018-04-11 at 10 37 55 pm](https://i.imgur.com/qyjyjmD.png)
 
 > The ciCHECK box Plugged to the computer
 ![screen shot Attendance Pad](https://i.imgur.com/Uil2mJB.jpg)
@@ -45,7 +45,7 @@ Side note:
 ![screen shot Attendance Pad Records](https://i.imgur.com/TwgEMvP.png)
 
 > ScreenShot of generated excel sheet file records
-![screen shot Attendance Pad Records](https://i.imgur.com/D82HL3n.png)
+![screen shot Attendance Pad Records](https://i.imgur.com/CIHZpfJ.png)
 
 
 ### ⚙️ Electronics Developement Instructions (for developers):

@@ -64,8 +64,7 @@ Both code sources for Arduino and for Processing are shared on the master reposi
 to add more features and enhacements work on Processing source code.
 
 * the Processing code uses:
-	> controlP5 library for User Interface GUI (Available in Processing library manager)
-	/ Java Excel API library for User Interface GUI (Included on the code source of Processing)
+	> Java Excel API library (Included on the code source of Processing)
 	/ Java Mail Library (Builtin with Processing).
 * the Arduino code uses MFRC522 library (Available in Arduino library manager).
 * the Arduino pitch sounds library (included) for future sound feature developement.

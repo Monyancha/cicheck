@@ -41,9 +41,6 @@ Side note:
 > The ciCHECK box Plugged to the computer
 ![screen shot Attendance Pad](https://i.imgur.com/Uil2mJB.jpg)
 
-> ScreenShot of generated text file records
-![screen shot Attendance Pad Records](https://i.imgur.com/TwgEMvP.png)
-
 > ScreenShot of generated excel sheet file records
 ![screen shot Attendance Pad Records](https://i.imgur.com/CIHZpfJ.png)
 

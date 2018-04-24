@@ -1525,10 +1525,10 @@ void showMsg(String Msg, String Title) {
 
 void uploadFileFTP(String filePath) {
 
-  String server = "ftp.eb2a.com";
+  String server = "ftp.eb2a.com"; //replace with your ftp server
   int port = 21;
-  String user = "eb2a_21408485";
-  String pass = "windowsmmS9";
+  String user = "";  //replace with your username
+  String pass = ""; //replace with your password
   FTPClient ftpClient = new FTPClient();
   try {
     ftpClient.connect(server, port);
@@ -2073,8 +2073,8 @@ public class Auth extends Authenticator {
 
   public PasswordAuthentication getPasswordAuthentication() {
     String username, password;
-    username = "attendancePad@gmail.com";
-    password = "hackmeifyouwant"; //your password
+    username = "attendancePad@gmail.com"; //your robot email
+    password = ""; //your robot email password
     println(lbl34);
     return new PasswordAuthentication(username, password);
   }

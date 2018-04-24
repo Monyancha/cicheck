@@ -27,9 +27,9 @@ and then repeat step (1) in Install Instructions.
 * To add new users: 
 	- Run the app "ciCHECK.app"
 	- Plug the ciCHECK box ,Check if the box is connected in the app
-	- Then scan the card and write the card number to a paper sheet
-	- Then click on "Open users database" button, add it to the text file to a new line containing the owner name of the card and the card number, in this format: "name:code" eg: "Soufiane Gouiferda:1234" 1234 representing the card number.
-	- Swipe the new card to see and save the name
+	- Then click on "New card" button, follow instructions.
+	
+* More guides coming soon...
 
 	
 Side note:

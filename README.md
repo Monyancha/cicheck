@@ -1,6 +1,6 @@
 # ciCHECK Project :computer: :credit_card: (Attendance tracking system) 
 ![noname6](https://i.imgur.com/ru9FUHk.jpg)
-> Attendance tracking system, Scanning RFID Cards or tags and saving text and excel records on connected computer (Arduino and Processing Mini Project)
+### ciCHECK: Attendance tracking system, Scanning RFID Cards or tags and saving text and excel records on connected computer (Arduino and Processing Mini Project)
 
 > Links to download latest ciCHECK app and requirements:
 

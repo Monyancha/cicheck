@@ -2,6 +2,8 @@
 ![noname6](https://i.imgur.com/ru9FUHk.jpg)
 > Attendance tracking system, Scanning RFID Cards or tags and saving text and excel records on connected computer (Arduino and Processing Mini Project)
 
+> Links to download latest ciCHECK app and requirements:
+
 * Download ciCHECK app for MacOs (Requires Java): http://bit.ly/getciCHECK2
 
 * Download ciCHECK Box drivers : http://bit.ly/getciCHECKBoxDrivers

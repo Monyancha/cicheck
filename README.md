@@ -6,7 +6,7 @@
 
 * Download ciCHECK Box drivers : http://bit.ly/getciCHECKBoxDrivers
 
-* Download Java : http://bit.ly/DownloadJava2
+* Download Java : http://bit.ly/downloadJava1073
 
 
 ### ↪️ User guide instructions:
